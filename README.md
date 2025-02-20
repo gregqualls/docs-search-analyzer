@@ -22,7 +22,7 @@ A configurable tool to analyze search results across different documentation sit
 
 1. Clone this repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/gregqualls/docs-search-analyzer.git
 cd [repository-directory]
 ```
 
